@@ -15,7 +15,9 @@ conda install -c anaconda pandas
 conda install -c anaconda matplotlib
 conda install -c anaconda seaborn
 conda install -c anaconda bokeh
+conda install -c anaconda openpyxl
 conda install -c conda-forge plotly
 conda install -c conda-forge altair
 conda install -c conda-forge folium
+
 
