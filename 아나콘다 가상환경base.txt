@@ -5,7 +5,10 @@ conda create -n DeepLearning python=3.8
 conda activate DeepLearning
 
 # 필요한 패키지들 설치
-conda install numpy pandas matplotlib scikit-learn
+conda install numpy 
+conda install pandas 
+conda install matplotlib 
+conda install scikit-learn
 conda install -c pytorch pytorch torchvision torchaudio
 conda install -c anaconda tensorflow-gpu
 conda install -c anaconda keras
@@ -19,5 +22,5 @@ conda install -c anaconda openpyxl
 conda install -c conda-forge plotly
 conda install -c conda-forge altair
 conda install -c conda-forge folium
-
+conda install -c anaconda autogluon
 
