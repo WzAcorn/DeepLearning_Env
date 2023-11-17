@@ -9,6 +9,8 @@ conda install numpy
 conda install pandas 
 conda install matplotlib 
 conda install scikit-learn
+conda install langchain
+
 conda install -c pytorch pytorch torchvision torchaudio
 conda install -c anaconda tensorflow-gpu
 conda install -c anaconda keras
@@ -19,8 +21,8 @@ conda install -c anaconda matplotlib
 conda install -c anaconda seaborn
 conda install -c anaconda bokeh
 conda install -c anaconda openpyxl
+
 conda install -c conda-forge plotly
 conda install -c conda-forge altair
 conda install -c conda-forge folium
 conda install -c anaconda autogluon
-
